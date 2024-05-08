@@ -1,31 +1,28 @@
-# Ex.10 Responsive Web Design using Bootstrap
-## Date:
-
-## AIM:
+# Project Responsive Web Design using Bootstrap
+### Date:
+### AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
 
-
 ## DESIGN STEPS:
-
-### Step 1:
+Step 1:
 Clone the repository from GitHub.
 
-### Step 2:
+Step 2:
 Create Django Admin project.
 
-### Step 3:
+Step 3:
 Create a New App under the Django Admin project.
 
-### Step 4:
+Step 4:
 Insert the necessary CSS and JavaScript files as external in order to use Bootstrap.
 
-### Step 5:
+Step 5:
 Create a HTML file and include the needed Bootstrap components.
 
-### Step 6:
+Step 6:
 Publish the website in the LocalHost.
 
-## PROGRAM :
+### PROGRAM :
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -314,12 +311,10 @@ Publish the website in the LocalHost.
 </body>
 </html>
 ```
-
-## OUTPUT:
-![alt text](<Screenshot 2024-05-07 105904.png>)
-![alt text](<Screenshot 2024-05-07 105918.png>)
-![alt text](<Screenshot 2024-05-07 105950.png>)
-![alt text](<Screenshot 2024-05-07 110006.png>)
-
-## RESULT:
-The program for responsive web design using Bootstrap is completed successfully.
+### OUTPUT:
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+### RESULT:
+The Project for responsive web design using Bootstrap is completed successfully.
