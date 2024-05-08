@@ -316,5 +316,6 @@ Publish the website in the LocalHost.
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
+
 ### RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
